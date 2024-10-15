@@ -13,7 +13,7 @@
 <h2 align="center">❤️ My Favorites Quote ❤️</h2>
 <h2 align="center"> 𝑽𝒊̀ 𝒕𝒐̂̉ 𝒒𝒖𝒐̂́𝒄 𝒙𝒂̃ 𝒉𝒐̣̂𝒊 𝒄𝒉𝒖̉ 𝒏𝒈𝒉𝒊̃𝒂, 𝒗𝒊̀ 𝒍𝒚́ 𝒕𝒖̛𝒐̛̉𝒏𝒈 𝒄𝒖̉𝒂 𝑩𝒂́𝒄 𝑯𝒐̂̀ 𝒗𝒊̃ đ𝒂̣𝒊, 𝒔𝒂̆̃𝒏 𝒔𝒂̀𝒏𝒈 !</h2>
 </p>
-<a href="https://www.youtube.com/c/NguyenDucQuan" target="_blank">
-  <img src="images/VietNammuonnam.PNG" width="1200" alt="Vì lý tưởng vĩ đại của Bác Hồ" />
+<a>
+  <img href="https://dhtn.ttxvn.org.vn/Images/images/Boi%20Duong%20Nghiep%20Vu/Noi%20San%20Thong%20Tan/Nam%202019/So%2010/Giao%20dien%20Web%20BAVN.jpg" width="1200" alt="Vì lý tưởng vĩ đại của Bác Hồ" />
 </a>
 
