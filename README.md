@@ -4,17 +4,17 @@
 - ⚡ Điều thú vị về tôi: Tôi là người con trai yêu thật lòng, ga lăng biết lo cho bạn gái đặc biệt là không red flages
 
 
-- ![3d72a6aa6678c0269969](https://github.com/user-attachments/assets/c02da4ab-196a-49e7-80d7-6dd5238a4ac7)
+  ![3d72a6aa6678c0269969](https://github.com/user-attachments/assets/c02da4ab-196a-49e7-80d7-6dd5238a4ac7)
 
 <table style="width:100%;">
   <tr>
     <td>
-      <p align="center"> 
+      <p align="left"> 
         <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejd4ajVvamlqdjJrdGFjYm9rYmUwNnZiNnZpbzJtcjBldjZsZng5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp" alt="dev" width="100%"/>
       </p>
     </td>
   </tr>
-    <p>
+    <p align="right">
    <a href="https://www.facebook.com/namzxjee?mibextid=LQQJ4d" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
