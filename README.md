@@ -12,8 +12,12 @@
   </p>
 
 
-<!-- Trungquandev -->
-<a href="#" target="_blank">
-  <img src="svg/trungquandev.svg" width="1200" alt="trungquandev-official" />
-</a>
-
+<table style="width:100%;">
+  <tr>
+    <td>
+      <p align="center"> 
+        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
+      </p>
+    </td>
+  </tr>
+</table>
