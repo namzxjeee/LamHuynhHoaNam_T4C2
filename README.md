@@ -14,7 +14,7 @@
       </p>
     </td>
   </tr>
-    <p align="right">
+    <p>
    <a href="https://www.facebook.com/namzxjee?mibextid=LQQJ4d" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
