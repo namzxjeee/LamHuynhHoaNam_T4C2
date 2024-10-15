@@ -16,7 +16,7 @@
   <tr>
     <td>
       <p align="center"> 
-        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
+        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejd4ajVvamlqdjJrdGFjYm9rYmUwNnZiNnZpbzJtcjBldjZsZng5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp" alt="dev" width="100%"/>
       </p>
     </td>
   </tr>
