@@ -4,7 +4,7 @@
 - ⚡ Điều thú vị về tôi: Tôi là người con trai yêu thật lòng, ga lăng biết lo cho bạn gái đặc biệt là không red flages
 
 
-  ![3d72a6aa6678c0269969](https://github.com/user-attachments/assets/c02da4ab-196a-49e7-80d7-6dd5238a4ac7)
+
 
 <table style="width:100%;">
   <tr>
