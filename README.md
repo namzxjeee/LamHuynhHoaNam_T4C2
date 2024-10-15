@@ -1,6 +1,6 @@
 - 👋 Mình là Lâm Huỳnh Hòa Nam  được mọi người gọi là namzxjeee
 - 👀 Tôi cảm nhận và bạn bè tôi cảm nhận thấy tôi cũng được được trai
-- 🌱 Hiện tại tôi là hạt giống của đại học Huflit
+- 🌱 Hiện tại tôi là hạt giống của đại học Huflit, tôi sẽ trở thành 1 mobile developer
 - ⚡ Điều thú vị về tôi: Tôi là người con trai yêu thật lòng, ga lăng biết lo cho bạn gái đặc biệt là không red flages
   <p align="left">
    <a href="https://www.facebook.com/namzxjee?mibextid=LQQJ4d" alt="Facebook">
