@@ -2,7 +2,7 @@
 - 👀 Tôi cảm nhận và bạn bè tôi cảm nhận thấy tôi cũng được được trai
 - 🌱 Hiện tại tôi là hạt giống của đại học Huflit
 - ⚡ Điều thú vị về tôi: Tôi là người con trai yêu thật lòng, ga lăng biết lo cho bạn gái đặc biệt là không red flages
-  <p align="center">
+  <p align="left">
    <a href="https://www.facebook.com/namzxjee?mibextid=LQQJ4d" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
