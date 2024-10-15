@@ -3,18 +3,15 @@
 - 🌱 Hiện tại tôi là hạt giống của đại học Huflit, tôi sẽ trở thành 1 mobile developer
 - ⚡ Điều thú vị về tôi: Tôi là người con trai yêu thật lòng, ga lăng biết lo cho bạn gái đặc biệt là không red flages
 
-
-
-
 <table style="width:100%;">
   <tr>
     <td>
-      <p align="left"> 
+      <p align="center"> 
         <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejd4ajVvamlqdjJrdGFjYm9rYmUwNnZiNnZpbzJtcjBldjZsZng5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp" alt="dev" width="100%"/>
       </p>
     </td>
   </tr>
-    <p align="right">
+    <p>
    <a href="https://www.facebook.com/namzxjee?mibextid=LQQJ4d" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
