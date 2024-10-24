@@ -14,6 +14,9 @@
     </td>
   </tr>
     <p>
+        <a href="mailto:hoanam270304@gmail.com" target="top">
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="namzxjee" />
+  </a>
    <a href="https://www.facebook.com/namzxjee?mibextid=LQQJ4d" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
